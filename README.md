@@ -1,4 +1,4 @@
-# My data science prjects
+# My data science projects
 
 ## Проекты
 
