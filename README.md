@@ -6,4 +6,4 @@
 * [Проект 1. Игра: Угадай число. Вариант 2](https://drive.google.com/drive/folders/1pJ5D_9RNDgG2hcn5X9lY1kFgWQZIMZqf?usp=sharing)
 * [Проект 2. ______](____)
 
-## It's working good luck
+
